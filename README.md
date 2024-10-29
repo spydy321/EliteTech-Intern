@@ -1,6 +1,6 @@
 # EliteTech-Intern
 A Python program for Caesar Cipher encryption and decryption.
-# Main Features
+## Main Features
 -Encryption and Decryption Modes:
 
 Allows users to choose between encrypting and decrypting a message, providing a straightforward interface for both operations.
