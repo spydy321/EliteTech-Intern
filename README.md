@@ -23,16 +23,16 @@ Educational Tool:
 
 Offers a practical introduction to the principles of encryption and cryptography, making it ideal for beginners interested in learning more about basic security techniques in a hands-on way.
 ### Installation
-``bash
+```bash
 git clone https://github.com/spydy321/EliteTech-Intern.git
-``
-``bash
+```
+```bash
 cd EliteTech-Intern
-``
+```
 ## Usage
-``bash
+```bash
 python3 caesar_cipher.py
-``
+```
 # Author
 - **Name**: Shivam Ingale
 - **GitHub**: spydy321
