@@ -30,7 +30,7 @@ This repository contains five different tools, each designed for a specific purp
    ```
 
 ### Usage
-   Run the tool by executing:
+-  Run the tool by executing:
    ```bash
    python3 caesar_cipher.py
    ```
