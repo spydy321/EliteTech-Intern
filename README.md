@@ -20,13 +20,16 @@ This repository contains five different tools, each designed for a specific purp
 
 **Installation**:
 1. Ensure Python 3 is installed.
-2. Clone the repository and navigate to the tool’s folder:
+2. Clone the repository
    ```bash
    git clone https://github.com/spydy321/EliteTech-Intern.git
+   ```
+3. navigate to the tool’s folder.  
+   ```bash
    cd EliteTech-Intern
    ```
 
-   ### Usage
+### Usage
 Run the tool by executing:
 ```bash
 python3 caesar_cipher.py
