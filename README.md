@@ -1,39 +1,38 @@
 # EliteTech-Intern
-A Python program for Caesar Cipher encryption and decryption.
-## Main Features
-- Encryption and Decryption Modes:
 
-Allows users to choose between encrypting and decrypting a message, providing a straightforward interface for both operations.
-- Custom Shift Value:
+This repository contains five different tools, each designed for a specific purpose.
 
-Users can specify a shift value (0-25) that determines how far each letter is shifted in the alphabet. This flexibility allows for customized encryption levels and makes it easy to experiment with different cipher shifts.
-Case-Sensitive Encoding:
+## Tools Overview
 
-Retains the case of each letter (upper or lower) in the encrypted or decrypted text, ensuring the output is readable and formatted similarly to the input.
-- Non-Alphabet Character Preservation:
+1. **Tool 1: Caesar Cipher Encryptor and Decryptor**
+2. **Tool 2: File Organizer**
+3. **Tool 3: Port Scanner**
+4. **Tool 4: Password Generator**
+5. **Tool 5: URL Shortener**
 
-Non-alphabetic characters (such as spaces, punctuation, and numbers) are preserved in their original form, allowing for accurate and formatted output without modification.
-- Immediate Processing:
 
-Outputs the encrypted or decrypted message immediately, so users get instant feedback on their input and can quickly verify the result.
-Simple, CLI-Based Interface:
+### Tool 1: Caesar Cipher Encryptor and Decryptor
 
-Operates entirely from the command line, making it lightweight, accessible, and easy to use on systems like Kali Linux.
-Educational Tool:
+**Main Features**:
+- Encrypts and decrypts text using a Caesar cipher.
+- Allows customizable shift values (0-25).
+- Retains non-alphabet characters in their original form.
 
-Offers a practical introduction to the principles of encryption and cryptography, making it ideal for beginners interested in learning more about basic security techniques in a hands-on way.
-### Installation
-```bash
-git clone https://github.com/spydy321/EliteTech-Intern.git
-```
-```bash
-cd EliteTech-Intern
-```
-## Usage
+**Installation**:
+1. Ensure Python 3 is installed.
+2. Clone the repository and navigate to the tool’s folder:
+   ```bash
+   git clone https://github.com/spydy321/EliteTech-Intern.git
+   cd EliteTech-Intern
+   ```
+
+   ### Usage
+Run the tool by executing:
 ```bash
 python3 caesar_cipher.py
 ```
+
 # Author
 - **Name**: Shivam Ingale
 - **GitHub**: spydy321
-- **Assistant**: Icy (ChatGPT, your friendly AI companion).
+- **E-mail**: shivamingale1111@gmail.com
