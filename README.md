@@ -22,18 +22,18 @@ Operates entirely from the command line, making it lightweight, accessible, and 
 Educational Tool:
 
 Offers a practical introduction to the principles of encryption and cryptography, making it ideal for beginners interested in learning more about basic security techniques in a hands-on way.
-## Installation
+### Installation
 ``bash
 git clone https://github.com/spydy321/EliteTech-Intern.git
 ``
 ``bash
 cd EliteTech-Intern
 ``
-#Usage
+## Usage
 ``bash
 python3 caesar_cipher.py
 ``
 # Author
--**Name**: Shivam Ingale
--**GitHub**: spydy321
--**Assistant**: Icy (ChatGPT, your friendly AI companion).
+- **Name**: Shivam Ingale
+- **GitHub**: spydy321
+- **Assistant**: Icy (ChatGPT, your friendly AI companion).
