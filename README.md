@@ -1,6 +1,6 @@
 # EliteTech-Intern
 A Python program for Caesar Cipher encryption and decryption.
-#Main Features
+# Main Features
 Encryption and Decryption Modes:
 
 Allows users to choose between encrypting and decrypting a message, providing a straightforward interface for both operations.
@@ -22,12 +22,12 @@ Operates entirely from the command line, making it lightweight, accessible, and 
 Educational Tool:
 
 Offers a practical introduction to the principles of encryption and cryptography, making it ideal for beginners interested in learning more about basic security techniques in a hands-on way.
-#Installation
+# Installation
 git clone https://github.com/spydy321/EliteTech-Intern.git
 cd EliteTech-Intern
 #Usage
 python3 caesar_cipher.py
-#Author
+# Author
 Name: Shivam Ingale
 GitHub: spydy321
 Assistant: Icy (ChatGPT, your friendly AI companion).
